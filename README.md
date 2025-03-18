@@ -1,2 +1,4 @@
 # Event_Management_API
-An API to manage events, create update delete and check events, built using Django Rest Framework.
+This Event Management API is built using Django Rest Framework (DRF) to provide a backend for managing events. It enables users to create, update, and delete events while also allowing them to view upcoming events. The API includes authentication and profile management features, ensuring that users can securely manage their own events. Additionally, it offers filtering and pagination to improve performance and user experience.
+
+This project is designed to provide a structured and efficient way to handle event-related data, making it easier for users to keep track of upcoming events and manage their event details. With a well-defined set of API endpoints, the system allows seamless interaction with event data while maintaining security and efficiency. The API is deployed on platforms like Heroku or PythonAnywhere for accessibility.
